@@ -11,6 +11,6 @@
 - [ ] Brass Candlestick
 
 ## Notes
-*Use this space to record your findings and deductions...*
+Una nota del artista menciona ver algo por las casas
 
 Location of the crime is still unknown - the room must have been empty when it happened...
