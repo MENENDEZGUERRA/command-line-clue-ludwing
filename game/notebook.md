@@ -17,4 +17,6 @@ Location of the crime is still unknown - the room must have been empty when it h
 
 Historial:
 
-Reseteo de juego
+1. Reseteo de juego
+2. Encuentro de piesta al inicio que lleva al jardín
+3. Nueva pista: Ir al parque
