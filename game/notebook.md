@@ -19,3 +19,19 @@ Nueva pista me lleva al meeting rooms
 Nueva pista me lleva al parque
 
 Ubicación del asesinato: Playground
+
+Personas y objetos extra:
+Houses:
+Leather Gloves
+Bronze Trophy
+
+School:
+Old key
+The Doctor
+
+Shops:
+Crystal Vase
+The shopkeepr
+
+Town Hall:
+Steel Ruler
