@@ -14,5 +14,6 @@
 Una nota del artista menciona ver algo por las casas
 Huellas de las casas hasta la mansión
 Encontré los guates de cuero en las casas
+Nueva pista en la biblioteca para ir a las oficinas del town hall
 
 Location of the crime is still unknown - the room must have been empty when it happened...
