@@ -21,3 +21,4 @@ Historial:
 2. Encuentro de piesta al inicio que lleva al jardín
 3. Nueva pista: Ir al parque
 4. Nueva pista: Ir a la cafeteria
+5. Nueva pista: Ir al lab
