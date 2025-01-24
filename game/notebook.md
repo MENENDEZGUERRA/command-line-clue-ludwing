@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Iron Poker
-- [ ] Silver Watch
+- [x] Silver Watch
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -24,3 +24,4 @@ Historial:
 5. Nueva pista: Ir al lab
 6. Nueva pista: Ir al classroom
 7. El asesinato ocurrio en el classroom
+8. Encontré un reloj en el parque
