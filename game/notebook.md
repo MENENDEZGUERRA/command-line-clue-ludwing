@@ -16,5 +16,6 @@ Huellas de las casas hasta la mansión
 Encontré los guates de cuero en las casas
 Nueva pista en la biblioteca para ir a las oficinas del town hall
 Nueva pista me lleva al meeting rooms
+Nueva pista me lleva al parque
 
 Location of the crime is still unknown - the room must have been empty when it happened...
