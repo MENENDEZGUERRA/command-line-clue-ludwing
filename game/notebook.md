@@ -12,5 +12,6 @@
 
 ## Notes
 Una nota del artista menciona ver algo por las casas
+Huellas de las casas hasta la mansión
 
 Location of the crime is still unknown - the room must have been empty when it happened...
