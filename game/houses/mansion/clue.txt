@@ -1,5 +1,0 @@
-Investigation Update:
-
-The floorboards creak, suggesting someone recently walked towards the garden.
-
-Remember: Use 'cd "garden"' to follow this lead.

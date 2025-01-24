@@ -1,6 +1,6 @@
 Investigation Conclusion:
 
-At last! This untouched crime scene reveals the truth. No one has been here since the incident.
+Your investigation has led you to the truth - this empty room is where it all happened!
 
 Your careful detective work has paid off. The empty state of this room matches 
 witness accounts - no one was around when the crime occurred. This must be 
